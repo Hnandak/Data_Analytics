@@ -5,6 +5,6 @@ b=798729
 
 def sum(a,b):
     c=a+b
-    return a
+    return c
 
 print("Add a new function sum which is not correct")
