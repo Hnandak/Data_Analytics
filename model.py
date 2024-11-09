@@ -6,3 +6,5 @@ def model1():
 
 def model2():
     print("Adding code model2")
+
+print("Final model")
